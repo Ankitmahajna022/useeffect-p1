@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+button
+{
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: lightblue;
+  position: relative;
+  left: 43%;
+  border: none;
+}
+span
+{
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: lightblue;
+  position: relative;
+  left: 43%;
+}
